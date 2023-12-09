@@ -1,0 +1,72 @@
+<html>
+<head>
+<title>Home page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#999999" alink="#FF0000">
+<div align="center"> 
+  <table width="679" border="0" cellspacing="0" cellpadding="0" height="410" align="left">
+    <tr> 
+      <td height="81" width="323"> 
+        <div align="left"><b><font face="Arial, Helvetica, sans-serif" size="2"><img src="title.png" width="322" height="59" align="middle"></font></b></div>
+      </td>
+      <td height="81" width="350">
+
+	<img border=0 src="shamrock.gif" width="232" height="86" alt="B 82"></td>
+
+    </tr>
+    <tr> 
+      <td height="318" colspan="2"> 
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td width="50" height="329">&nbsp; </td>
+            <td width="328" height="329"> 
+              <p align="center"><img src="bottles1.jpg" width="241" height="70" align="texttop"></p>
+              <p><font size="2" face="Arial, Helvetica, sans-serif">Welcome to 
+                <b><font color="#FF0000">Aura-Soma Ireland</font></b><font color="#FF0000">.</font> 
+                This is a web resource for Irish people 
+                interested in the Aura-Soma<font size="-1"> Colour-Care System<font size="-3">&reg;</font></font>, as well as for practitioners and  trainers. 
+                Whether you are simply curious about a personal consultation, seeking peer contact details or  looking for information 
+                on colour training,  this is the website for you.</font> <font face="Arial, Helvetica, sans-serif" size="2">Click on 
+                any of the links in the coloured bar below to access areas of 
+                the site. </font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2">For Aura-Soma Practitioners and Teachers who would like to <font color="#000000">join 
+                a  discussion group go to our <font color="#FF0080">Facebook Page</font>: The Aura-Soma Colour-Care System in Ireland at: https://www.facebook.com/groups/173482016023435/ </font></font></p>
+              <p><font face="Arial, Helvetica, sans-serif" size="2"><font color="#000000"><strong><font color="#0000FF">Aura-Soma 
+                is regularly available at Alternative Health Fairs around the 
+                country</font></strong><font color="#0000FF">.</font></font> For 
+                details on where to try it out this month and other up to date 
+                information click here on <a href="/whatsnew/whatsnew1.html"><font color="#FF0000"> 
+                <font color="#FF0080">What's New</font></font></a><font color="#FF0080">. </font></font></p>
+              <p> <font face="Arial, Helvetica, sans-serif" size="1">To contact us you 
+              can send an email to eilish.kelly@gmail.com. </font><font size="1">Privacy Notice: Contact details are collected for the purpose of promoting Aura-Soma courses/events in Ireland and are only shared with Registered Facilitators of those events.. Details are kept for a minimum of 12 months unless opted into.. </font></p>
+              <blockquote><font face="Arial, Helvetica, sans-serif" size="2" color="#FF0000"><strong>Site</strong></font><strong><font face="Arial, Helvetica, sans-serif" size="2" color="#008000"> 
+                <font color="#FF8000">last</font> <font color="#FF8000">updated</font></font></strong> <font face="Arial, Helvetica, sans-serif" size="2"><font color="#00BF00"> 21 Feb  2019</font><br>
+              </font></blockquote>
+            </td>
+            <td width="300" height="329"><div align="left">
+              <p align="center"> <img src="../My Website/B116 a.JPG" width="128" height="235" align="middle"></p>
+              <p align="center"><font face="Arial, Helvetica, sans-serif" size="-2"><strong>Queen Mab </strong></font></p>
+              <p align="center"><font face="Arial, Helvetica, sans-serif" size="-2"><strong>B116 </strong></font></p>
+              <p align="center"><font face="Arial, Helvetica, sans-serif" size="-2"><strong>Royal Blue over Magenta <BR>
+                  <BR>
+                Born 14 Jan, 2019, 14.00gmt</strong></font></p>
+              <p align="center"><font face="Arial, Helvetica, sans-serif" size="-2"><strong><BR>
+                  <BR>
+              </strong> </font></p>
+            </div>
+  
+		  </td>
+
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  
+  
+  <p>&nbsp; </p>
+</div>
+</body>
+</html>

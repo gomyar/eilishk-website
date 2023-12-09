@@ -1,0 +1,575 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./forum_files/filelist.xml">
+<title>Untitled Document</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Eilish Kelly</o:Author>
+  <o:LastAuthor>Eilish Kelly</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2003-06-08T17:54:00Z</o:Created>
+  <o:LastSaved>2003-06-08T17:54:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>190</o:Words>
+  <o:Characters>1086</o:Characters>
+  <o:Lines>9</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1333</o:CharactersWithSpaces>
+  <o:Version>9.3821</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>75</w:Zoom>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#33CCCC;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+p.MsoNormal1 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal2 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal3 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+.style1 {color: #01704B}
+div.MsoNormal1 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+li.MsoNormal1 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal4 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal31 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal41 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal5 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal6 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal7 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal8 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal9 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal10 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal11 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+div.MsoNormal2 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+li.MsoNormal2 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal12 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal111 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal13 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal14 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal15 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal16 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal104 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+div.MsoNormal3 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+li.MsoNormal3 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal17 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+div.MsoNormal4 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+li.MsoNormal4 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+p.MsoNormal18 {mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:#336666;}
+.style2 {color: #FFFFFF}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027">
+  <o:colormru v:ext="edit" colors="#ffc"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#ffff66" background="images/scheduleofcourses_background.jpg" lang=EN-US
+link=blue vlink="#33cccc" style='tab-interval:.5in' alink="#990099">
+<!--[if gte vml 1]><v:background id="_x0000_s1025" o:bwmode="white"
+ fillcolor="#ff6" o:targetscreensize="800,600">
+ <v:fill color2="#ffc" focusposition=".5,.5" focussize="" focus="100%" type="gradientRadial"/>
+</v:background><![endif]--> 
+<div class=Section1>
+
+<div align=center>
+
+<table border=0 cellspacing=0 cellpadding=0 width=530 style='width:397.5pt;
+ mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr>
+  <td style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+ <tr>
+  <td style='padding:0in 0in 0in 0in'>
+  <p align=center style='text-align:center'>&nbsp;</p>
+  <p align=center style='text-align:center'>&nbsp;</p>
+  <p align=center style='text-align:center'>&nbsp;</p>
+  <p align=center style='text-align:center'>&nbsp;</p>
+  <p align=center style='text-align:center'>&nbsp;<o:p></o:p></p>
+  <div style='left:68px;position:absolute;top:11px;z-index:1' id=Layer1>
+  <div align=center>
+              <table border=0 cellspacing=0 cellpadding=0 width=518 style='width:6.5in;
+   mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+                <tr>
+    <td style='padding:0in 0in 0in 0in'>
+                    <p class=MsoNormal align=center style='text-align:center'><b><span
+    style='font-size:13.5pt;font-family:Arial'><font color="#000000">Schedule 
+                      of Courses, Talks, Workshops, Events</font></span></b></p>
+    </td>
+   </tr>
+   <tr>
+    <td style='padding:0in 0in 0in 0in'>
+                    <p align="center"><font size="+1" color="#000000"> 2019-2020</font><strong> </strong></p>
+                  </td>
+   </tr>
+  </table>
+              <table border=0 cellspacing=0 cellpadding=0 width=626 style='width:469.5pt;
+     mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+                <tr style='height:17.25pt'> 
+                  <td width=68 valign=top style='width:49.5pt;padding:0in 0in 0in 0in;
+      height:17.25pt'> 
+                    <p class=MsoNormal>&nbsp;</p>
+                  </td>
+                  <td width=558 style='width:420.0pt;padding:0in 0in 0in 0in;height:17.25pt'> 
+                    <table border=2 cellpadding=0 width="80%" style='width:100.0%;
+       mso-cellspacing:1.5pt;border:outset .75pt;mso-padding-alt:1.5pt 1.5pt 1.5pt 1.5pt'>
+                      <tr bgcolor="#6633CC" align="center">
+                        <td height="25" colspan="3" align="center" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p class=MsoNormal>&nbsp;</p>
+                          <p align="center" class=MsoNormal><strong><font color="white"><span style='font-family:Arial'>TRAINING &amp; OTHER COURSES IN THE AURA-SOMA COLOUR-CARE </span></font><span style='font-family:Arial'><span class="style2">SYSTEM</span></span></strong></p>
+                          <p align="center" class=MsoNormal>&nbsp;</p>
+                          <p align="center" class=MsoNormal><strong><span class="style2">Each level of the training can be attended independently. However to become a qualified &amp; registered practitioner  all  3 levels must be completed.</span></strong></p>                          </td>
+                      </tr>
+                      <tr bgcolor="#FFFFCC">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="55" align="center"><p class=MsoNormal><strong>Course</strong></p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="55"><p align="center" class=MsoNormal><strong>Date/Times</strong></p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="55"><p align="center" class=MsoNormal><strong>Cost/Contact</strong></p></td>
+                      </tr>
+                      <tr bgcolor="#CCFF99">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center" height="91"><p align="center" class=MsoNormal><strong><strong> Level 1 Foundation Training</strong> in </strong></p>
+                          <p align="center" class=MsoNormal><strong>Aura-Soma Colour</strong></p>
+                          <p align="center" class=MsoNormal>Angel World </p>
+                          <p align="center" class=MsoNormal><strong>Sligo</strong></p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="91"><p class=MsoNormal10 style2> 23 - 26 Jan</p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="91"><p class=MsoNormal>Cost: 500eu </p>
+                          <p class=MsoNormal>&nbsp;</p>
+                          <p class=MsoNormal> <font size="-1"><font size="-1">Booking with </font></font> Eilish on 0872369541</p></td>
+                      </tr>
+                      <tr bgcolor="#CCFF99">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center" height="259"><p align="left" class=MsoNormal><font size="-1"><font size="-1"><span class="style1"><u><strong>Introduction to Aura-Soma </strong></u></span></font></font></p>
+                          <p align="left" class=MsoNormal>&nbsp;</p>
+                          <p align="left" class=MsoNormal><font size="-1"><font size="-1"><span class="style1">3 hour evening or day session. </span></font></font></p>
+                          <p align="left" class=MsoNormal><font size="-1"><font size="-1"><span class="style1">In this  session get a basic introduction to what your colour preferences can reveal about your inner self &amp; how to use colour to achieve joy and vitality. </span></font></font></p>                          </td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="259"><p class=MsoNormal><font size="-1">Available nationwide (North and South) by arrangement but especially</font></p>
+                          <p class=MsoNormal>&nbsp;</p>
+                          <p class=MsoNormal><font size="-1">Dublin; </font></p>
+                          <p class=MsoNormal><font size="-1">Cork:</font></p>
+                          <p class=MsoNormal><font size="-1">Sligo:</font> </p>
+                          <p class=MsoNormal><font size="-1">Limerick: </font></p>
+                          <p class=MsoNormal><font size="-1">Galway:</font></p>
+                          <p class=MsoNormal>&nbsp;</p>
+                          <p class=MsoNormal>NEXT 3 hr INTRODUCTION: </p>
+                          <p class=MsoNormal>&nbsp;</p>
+                          <p class=MsoNormal>&nbsp; </p>
+                          <p class=MsoNormal>&nbsp;</p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="259"><p class=MsoNormal><font size="-1"><font size="-1"><u>Dublin</u>: <font size="-1">Contact Eilish on 0872369541</font></font></font></p>
+                          <p class=MsoNormal><font size="-1"><u>Limerick:</u> <font size="-1">Contact Eilish on 0872369541</font></font></p>
+                          <p class=MsoNormal><font size="-1"><font size="-1"><u>Cork:</u> <font size="-1">Contact Eilish on 0872369541  </font></font></font></p>
+                          <p class=MsoNormal><font size="-1"><font size="-1"><u>Sligo</u>: <font size="-1">Contact Eilish on 0872369541 or </font>Marleen on 0719143440</font></font></p>
+                          <p class=MsoNormal>&nbsp;</p>
+                          <p class=MsoNormal><font size="-1"><font size="-1">The 3 hour introduction  is 30eu,</font></font></p>
+                          <p class=MsoNormal><font size="-1">D<font size="-1">eductible  for those who subsequently undertake the foundation training with Eilish.</font></font></p>                          </td>
+                      </tr>
+                      <tr bgcolor="#6633CC" align="center">
+                        <td height="25" colspan="3" align="center" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p class=MsoNormal><font color="white"><span style='font-family:Arial'><strong>DREAM ANALYSIS WITH COLOUR </strong></span></font></p>                          <p class=MsoNormal>&nbsp;</p>                          </td>
+                      </tr>
+                      <tr bgcolor="#FFFFCC">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24" align="center"><p class=MsoNormal><strong>Course</strong></p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"><p align="center" class=MsoNormal><strong>Date</strong></p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"><p align="center" class=MsoNormal><strong>Cost/Contact</strong></p></td>
+                      </tr>
+                      <tr bgcolor="#CCFF99">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center" height="32"><p class=MsoNormal><font size="-1"><b>Dream Analysis Workshops  around the country</b></font></p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"><p class=MsoNormal><font size="-1"><b>By arrangement. </b></font></p>
+                          <p class=MsoNormal>&nbsp;</p>                          </td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"><p class=MsoNormal><font color="#006262" size="-1"><strong>Cork: </strong></font><font color="#006262" size="-1">Eilish on 0872369541</font></p>
+                          <p class=MsoNormal><font color="#006262" size="-1"><strong>Limerick:</strong> Eilish on 0872369541</font></p>
+                          <p class=MsoNormal><font color="#006262" size="-1"><strong>Sligo: </strong>Marleen on 0719143440</font></p>
+                          <p class=MsoNormal><font color="#006262" size="-1"><strong>Tipperary:</strong> Mary on 0872468510</font></p>
+                          <p class=MsoNormal>&nbsp;</p>
+                          <p class=MsoNormal><font color="#006262" size="-1">6</font><font color="#006262" size="-1">0eu per half day or evening session; 120eu per 1 day workshop. </font></p>
+                          <p class=MsoNormal><font color="#006262" size="-1">240.00eu per 2 day workshop</font> </p>
+                          <p class=MsoNormal>&nbsp;</p></td>
+                      </tr>
+                      <tr bgcolor="#6633CC" align="center">
+                        <td height="25" colspan="3" align="center" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p class=MsoNormal><font color="white"><span style='font-family:Arial'><strong>ART  AS THERAPY &amp; COLOUR WORKSHOPS </strong></span></font></p>
+                            <p class=MsoNormal>&nbsp;</p></td>
+                      </tr>
+                      <tr bgcolor="#FFFFCC">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24" align="center"><p class=MsoNormal><strong>Course</strong></p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"><p align="center" class=MsoNormal><strong>Date</strong></p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"><p align="center" class=MsoNormal><strong>Cost/Contact</strong></p></td>
+                      </tr>
+                      <tr bgcolor="#CCFF99">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center" height="32"><p class=MsoNormal><font size="-1">These courses are available for  groups &amp; organisations (especially Community &amp; Holistic groups). They are specifically designed for each group. Please enquire for details. Could include <font size="-1"><font size="-1"><strong>What Myth, Fairytale or Legend are you Living by? </strong>(and do you want to continue it?<strong>) </strong></font></font></font></p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"><p class=MsoNormal><font color="#2E5C5C" size="-1"><b>By arrangement</b></font> </p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"><p class=MsoNormal><font size="-1"><b>Negotiable</b></font></p></td>
+                      </tr>
+                      <tr bgcolor="#6633CC" align="center">
+                        <td height="25" colspan="3" align="center" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p class=MsoNormal><font color="white"><span style='font-family:Arial'><strong>HOLISTIC &amp; OTHER FAIRS/EVENTS </strong></span></font></p>
+                            <p class=MsoNormal>&nbsp;</p></td>
+                      </tr>
+                      <tr bgcolor="#FFFFCC">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24" align="center"><p class=MsoNormal><strong>Venue</strong></p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"><p align="center" class=MsoNormal><strong>Date</strong></p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"><p align="center" class=MsoNormal><strong>Details</strong></p></td>
+                      </tr>
+                      <tr bgcolor="#CCFF99">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center" height="32"><p class=MsoNormal>City Hall, Cork </p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"><p class=MsoNormal>26 - 27 Oct </p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"><p class=MsoNormal>Mind Body Experience </p>
+                        <p class=MsoNormal><a href="http://www.corkmindbodyexperience.ie">corkmindbodyexperience.ie</a> </p></td>
+                      </tr>
+                      <tr bgcolor="#6633CC" align="center">
+                        <td height="25" colspan="3" align="center" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'><p class=MsoNormal><font color="white"><span style='font-family:Arial'><strong>OTHER OPTIONS </strong></span></font></p>
+                            <p class=MsoNormal>&nbsp;</p></td>
+                      </tr>
+                      <tr bgcolor="#CCFF99">
+                        <td style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center" height="36"><p><font color="#408080"><b><font color="#006666">Dream 
+                            Workshops;</font></b></font></p>
+                          <p><font color="#408080"><b><font color="#006666">Art As Therapy;</font></b></font></p>
+                          <p><font color="#408080"><b><font color="#006666"> Personality Types</font></b></font>;</p>
+                          <p><font color="#408080"><b><font color="#006666">Myths &amp; Legends;</font></b></font></p>
+                          <p><font color="#408080"><b><font color="#006666">The Tree of Life/Kabbalah</font></b></font></p>
+                          <p class=MsoNormal>&nbsp;</p></td>
+                        <td style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="36"><p><font color="#408080" class="MsoNormal"><b><font color="#006464">If 
+                          you host a talk, group consultation, workshop or training 
+                          course with 4 or more people (not including yourself) 
+                          and provide a venue (and self catered type accommodation if neccessary) you can attend in most instances for free or a small 
+                        fee.</font></b></font> </p></td>
+                        <td style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="36"><p class=MsoNormal><b>Available for groups and Individuals</b>
+                            </p>
+                          <blockquote>
+                            <p><b>* Aura-Soma </b> <strong>Consultations </strong></p>
+                            <p><strong>* Dream Analysis &amp; Colour </strong></p>
+                            <p><b>* Art as Therapy &amp; Colour</b></p>
+                            <p><strong>* </strong><b>Personality Type</b> <strong>&amp; Colour</strong></p>
+                            <p><strong>* </strong><b>Myths, Legends Symbols</b> <strong>&amp; Colour </strong></p>
+                            <p><strong>* Aura-Soma Consultations &amp; the Tree of Life </strong></p>
+                          </blockquote></td>
+                      </tr>
+                      <tr bgcolor="#CCFF99"> 
+                        <td width="36%" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center"> 
+                          <p class=MsoNormal><font color="#000000"><a href="eilish.kelly@gmail.com">eilish.kelly@gmail.com</a> </font></p>                        </td>
+                        <td width="26%" style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'> 
+                          <p class=MsoNormal><font color="#005E5E"><b><font color="#007171">0872369541</font></b></font></p>                        </td>
+                        <td width="38%" style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt'> 
+                          <p class=MsoNormal><font color="#000000"><a href="index.html">HOME</a></font></p>                        </td>
+                      </tr>
+                      <tr bgcolor="#CCFF99"> 
+                        <td width="36%" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' align="center" height="32"> 
+                        <p class=MsoNormal>&nbsp;</p>                        </td>
+                        <td width="26%" style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"> 
+                          <p class=MsoNormal>&nbsp;</p>                        </td>
+                        <td width="38%" style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="32"> 
+                          <p class=MsoNormal>&nbsp;</p>                        </td>
+                      </tr>
+                      <tr bgcolor="#FFFFCC"> 
+                        <td width="36%" style='width:28.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24" align="center"> 
+                          <p class=MsoNormal>&nbsp;</p>                        </td>
+                        <td width="26%" style='width:21.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"> 
+                          <p class=MsoNormal>&nbsp;</p>                        </td>
+                        <td width="38%" style='width:27.0%;border:inset .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt' height="24"> 
+                          <p class=MsoNormal>&nbsp;</p>                        </td>
+                      </tr>
+                    </table>
+                    <p class=MsoNormal><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p><o:p></o:p></p>
+                    <p class=MsoNormal><o:p></o:p></p>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width=68 valign=top style='width:49.5pt;padding:0in 0in 0in 0in'> 
+                    <p>&nbsp;</p>
+                  </td>
+                  <td width=558 style='width:420.0pt;padding:0in 0in 0in 0in'> 
+                    <p>&nbsp; </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+  <p>&nbsp; <o:p></o:p></p>
+  </div>
+  <div align=center>
+  <table border=0 cellspacing=0 cellpadding=0 width=530 style='width:397.5pt;
+   mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+   <tr>
+    <td width=50 style='width:37.5pt;padding:0in 0in 0in 0in'>
+    <table border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%;
+     mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <p class=MsoNormal>&nbsp;</p>
+      </td>
+     </tr>
+     <tr>
+      <td style='padding:0in 0in 0in 0in'>
+      <p>&nbsp;</p>
+      </td>
+     </tr>
+    </table>
+    <p>&nbsp;</p>
+    </td>
+    <td width=437 style='width:327.75pt;padding:0in 0in 0in 0in'>
+    <p>&nbsp;</p>
+    </td>
+   </tr>
+  </table>
+  ,<font size="-1">*</font></div>
+  <p class=MsoNormal><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p>&nbsp; </p>
+
+</div>
+
+</body>
+
+</html>
